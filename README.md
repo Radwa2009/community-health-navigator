@@ -2,7 +2,7 @@
 
 A frontend prototype that helps community health and nonprofit staff manage family intake, track needs and referrals, stay on top of follow-ups, and generate weekly impact reports — with AI positioned strictly as staff support, never as a decision-maker.
 
-**Live demo:** _(add your GitHub Pages link here)_
+**Live demo:** [_(add your GitHub Pages link here)_](https://radwa2009.github.io/community-health-navigator/)
 
 > **Prototype, not a production system.** This is a frontend demo using fictional, de-identified data, stored only in the browser. A production version would require an approved backend, authentication, role-based access, audit logs, organization-approved privacy policies, and staff training. The app says this on its dashboard and in its About section, because the limits of a tool should be as visible as its features.
 
